@@ -24,4 +24,4 @@
 5. Title: Çukur  
    Director: Gökhan Horzum  
    Release Year: 2017  
-   Genre: Action  
+   Genre: Drama  
