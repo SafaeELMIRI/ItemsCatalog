@@ -14,4 +14,14 @@
 3. Title: The Colors of Fire  
    Director: Clovis Cornillac  
    Release Year: 2022  
+   Genre: Drama
+   
+4. Title: Black Mercedes  
+   Director: Janusz Majewski  
+   Release Year: 2019  
+   Genre: Action
+
+5. Title: Çukur  
+   Director: Gökhan Horzum  
+   Release Year: 2017  
    Genre: Drama  
