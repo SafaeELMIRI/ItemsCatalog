@@ -21,3 +21,15 @@
    Type de connecteur: ‎USB  
    Compatibilité du périphérique: Xbox Series X  
    Price: $139.99  
+
+4. Model: Rockcat XR2  
+   Marque: ‎Rockcat  
+   Type de connecteur: ‎USB  
+   Compatibilité du périphérique: PC  
+   Price: $109.99  
+
+5. Model: Logitech G29  
+   Marque: ‎Logitech  
+   Type de connecteur: ‎USB  
+   Compatibilité du périphérique: PC  
+   Price: $259.99  
